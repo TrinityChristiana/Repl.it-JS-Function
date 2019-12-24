@@ -9,7 +9,8 @@ This is a collection of assignments from repl.it.
 
 - ## ~~Student Assignments~~
 
-- ## ~~Making a journal entry component~~
+- ## [Making a journal entry component](https://github.com/TrinityTerry/Repl.it-JS-Function/tree/master/making-a-journal-entry-component)
+    - [Assignment on Repl.it](https://repl.it/@TrinityTerry/Making-a-journal-entry-component)
 
 
 - ## ~~Functions calling functions~~
