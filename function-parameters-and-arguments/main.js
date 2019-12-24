@@ -17,7 +17,7 @@ const fullName = (first, middle, last) => {
   
   
   const createStudent = (first, middle, last) => {
-    return student = {
+    return student = { 
       firstName: first,
       middleName: middle,
       lastName: last,
