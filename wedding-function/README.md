@@ -1,4 +1,4 @@
-Here's my repl.it link: https://repl.it/@TrinityTerry/Wedding-Function
+Here's my repl.it link to this assignment: https://repl.it/@TrinityTerry/Wedding-Function
 
 # Wedding Function
 
