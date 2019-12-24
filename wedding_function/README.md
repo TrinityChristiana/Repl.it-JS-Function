@@ -1,3 +1,5 @@
+Here's my repl.it link: https://repl.it/@TrinityTerry/Wedding-Function
+
 Wedding Function
 
 In this exercise, you job is to write a function that performs the task of announcing newlyweds after the wedding. The function should accept two arguments. Each argument should be the first and last name of two people. The function should then use the window.alert() method to announce the couple at their reception.
@@ -12,3 +14,4 @@ In this exercise, you job is to write a function that performs the task of annou
 Here is an example message to be displayed.
 
 "Ladies and Gentlmen, please welcome the newlyweds James Tonkin and Melanie Reid!!"
+
