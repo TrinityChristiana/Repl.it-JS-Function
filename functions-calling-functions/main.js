@@ -1,28 +1,34 @@
 // Capitalize letter of food
 let capitalize = (word) => {
-    let capWord = word[0].toUpperCase() + word.slice(1, word.length);
-    return capWord;
+    if (word){
+      let capWord = word[0].toUpperCase() + word.slice(1, word.length);
+      return capWord;
+    }
+    
   };
   
   // Define a cook function
-  const cook = (obj) => {
-    return `Cooked ${obj.food}`;
+  const cook = (food) => {
+    return `Cooked ${food}`;
   };
   
   // Define a slice function
-  const slice = (obj) => {
-    let foodWord = capitalize(obj.food);
-    return `${foodWord} slices`;
+  const slice = (food) => {
+    if (food){
+      let foodWord = capitalize(food);
+      return `${foodWord} slices`;
+    }
+   
   };
   
   // Define a mealMaker function
   const mealMaker = (array) => {
     let newFoodArray = [];
     for(let i = 0; i < array.length; i++){
-      if(array[i].type == "vegetable") {
-        newFoodArray.push(slice(array[i]));
-      } else if (array[i].type == "meat") {
-        newFoodArray.push(cook(array[i]));
+      if(array[i].type === "vegetable") {
+        newFoodArray.push(slice(array[i].food));
+      } else if (array[i].type === "meat") {
+        newFoodArray.push(cook(array[i].food));
         
       }
     }
@@ -45,8 +51,8 @@ let capitalize = (word) => {
       "type": "vegetable"
     },
     {
-      "food": "chicken",
-      "type": "meat"
+      "food": "beet",
+      "type": "vegetable"
     }
   ];
   
