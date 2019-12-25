@@ -17,5 +17,6 @@ This is a collection of assignments from repl.it.
     - [Assignment on Repl.it](https://repl.it/@TrinityTerry/Functions-calling-functions)
 
 
-- ## ~~Car Factory Functions~~
+- ## [Car Factory Functions](https://github.com/TrinityTerry/Repl.it-JS-Function/tree/master/car-factory-functions)
+    - [Assignment on Repl.it](https://repl.it/@TrinityTerry/Car-Factory-Functions)
 
