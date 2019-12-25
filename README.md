@@ -13,7 +13,8 @@ This is a collection of assignments from repl.it.
 - ## [Making a journal entry component](https://github.com/TrinityTerry/Repl.it-JS-Function/tree/master/making-a-journal-entry-component)
     - [Assignment on Repl.it](https://repl.it/@TrinityTerry/Making-a-journal-entry-component)
 
-- ## ~~Functions calling functions~~
+- ## [Functions calling functions](https://github.com/TrinityTerry/Repl.it-JS-Function/tree/master/functions-calling-functions)
+    - [Assignment on Repl.it](https://repl.it/@TrinityTerry/Functions-calling-functions)
 
 
 - ## ~~Car Factory Functions~~
